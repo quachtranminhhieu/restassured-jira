@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-10T09:05:04Z" name="Run Jira API" finished-at="2023-05-10T09:05:11Z" duration-ms="6895">
+    <groups>
+    </groups>
+    <test started-at="2023-05-10T09:05:04Z" name="Run Jira CRUD" finished-at="2023-05-10T09:05:11Z" duration-ms="6895">
+      <class name="test.JiraIssueCRUD_TestNG">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:test.JiraIssueCRUD_TestNG@3491e86e]" started-at="2023-05-10T09:05:04Z" name="beforeSuite" finished-at="2023-05-10T09:05:04Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.JiraIssueCRUD_TestNG@3491e86e]" started-at="2023-05-10T09:05:04Z" name="beforeTest" finished-at="2023-05-10T09:05:07Z" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestCase()[pri:0, instance:test.JiraIssueCRUD_TestNG@3491e86e]" started-at="2023-05-10T09:05:08Z" name="TestCase" finished-at="2023-05-10T09:05:11Z" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase -->
+      </class> <!-- test.JiraIssueCRUD_TestNG -->
+    </test> <!-- Run Jira CRUD -->
+  </suite> <!-- Run Jira API -->
+</testng-results>

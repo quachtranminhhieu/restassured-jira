@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Run Jira API" >
+    <test name="Run Jira CRUD" >
+        <classes>
+            <class name="test.JiraIssueCRUD_TestNG" />
+        </classes>
+    </test>
+</suite>

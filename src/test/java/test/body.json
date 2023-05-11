@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "summary": "New Automation Task",
+    "project": {
+      "key": "RAT"
+    },
+    "issuetype": {
+      "id": "10001"
+    }
+  }
+}
